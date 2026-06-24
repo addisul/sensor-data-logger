@@ -1,1 +1,1 @@
-# sensor-data-logger
+# Sensor Data Logger
